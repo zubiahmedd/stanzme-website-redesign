@@ -21,4 +21,4 @@ Redesign and enhancement of the Stanzme website for a real client specializing i
 - GitHub
 
 ## Status
-🚧 In Progress
+In Progress
